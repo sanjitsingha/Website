@@ -14,7 +14,7 @@
 }
 
 .main{
-    background-image: url(./IMAGES/BACKGROUND.jpg);
+    background-image: url(/BACKGROUND.jpg);
     width: 100%;
     height: 100vh;
     object-fit: cover;
